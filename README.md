@@ -20,7 +20,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soban-iftikhar1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C6AF7?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio-eight-nu-63.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C6AF7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-soban-iftikhar.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sobaniftikhar1098@gmail.com)
 </div>
 
